@@ -1,0 +1,20 @@
+[
+  {
+    "no": 1,
+    "isim": "Laptop",
+    "stok": 40,
+    "fiyat": 50000
+  },
+  {
+    "no": 2,
+    "isim": "Mouse",
+    "stok": 60,
+    "fiyat": 300
+  },
+  {
+    "no": 3,
+    "isim": "Klavye",
+    "stok": 55,
+    "fiyat": 1500
+  }
+]
